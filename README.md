@@ -1,6 +1,6 @@
 # macOS Catalina on the HP ProDesk 400 G1
 
-[⬅️Previous: Mojave](https://github.com/lukizel/Mojave-HP-ProDesk-400-G1) | [Next: Big Sur➡️](https://github.com/puuska/Hackintosh-HP-ProDesk-400-G1)
+[⬅️ Previous: Mojave](https://github.com/lukizel/Mojave-HP-ProDesk-400-G1) | [Next: Big Sur ➡️](https://github.com/puuska/Hackintosh-HP-ProDesk-400-G1)
 
 | Hardware    | Details                |
 | ----------- | ---------------------- |
