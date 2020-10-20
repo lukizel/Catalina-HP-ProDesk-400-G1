@@ -26,6 +26,8 @@ Do not configure iCloud in the first setup, make sure you fix USBMap and change 
 
 After fixing USBMap and replacing SMBIOS identificators (I recommend Clover Configurator for that), you can log in to iCloud without any issue. You're done!
 
+This might not be the case for you, but, if the back USB ports go bonkers, just check FixUSB in ACPI patches in Clover.
+
 # Issues
 
 - VGA output isn't working (who would have guessed?)
